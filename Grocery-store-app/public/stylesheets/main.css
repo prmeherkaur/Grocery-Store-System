@@ -10,6 +10,10 @@
 .card .bg-light{
     margin-top: 20px;
 }
- #deleteform{
-     display: inline;
+ #buttons{
+     display:flex;
+     flex-direction: row;
+     flex-wrap: wrap;
+     align-items: flex-start;
+  
  }
